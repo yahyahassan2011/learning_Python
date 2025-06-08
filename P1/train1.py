@@ -8,3 +8,5 @@ input1 = int(input("Enter the first number: "))
 input2 = int(input("Enter the second number: "))
 
 square(input1,input2)
+
+#adding some lines
